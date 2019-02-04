@@ -1,3 +1,6 @@
 socks
 tshirt
 trouser
+shirt
+sweather
+
