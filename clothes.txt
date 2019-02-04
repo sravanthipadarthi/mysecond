@@ -3,4 +3,6 @@ tshirt
 trouser
 shirt
 sweather
+gloves
+suits
 
